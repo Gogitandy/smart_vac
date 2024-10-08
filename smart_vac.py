@@ -19,4 +19,4 @@ class SmartVac:
             if self.room.layout[y_p][x_p]:
                 self.position = (x_p, y_p)
                 break
-        return]
+        return
